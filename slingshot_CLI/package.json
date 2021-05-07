@@ -1,0 +1,17 @@
+{
+  "name": "slingshot_cli",
+  "version": "1.0.0",
+  "description": "This is the CLI used to interact with the trie server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arnav",
+  "license": "ISC",
+  "bin": {
+    "trie": "./index.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
