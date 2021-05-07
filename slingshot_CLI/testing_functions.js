@@ -1,5 +1,7 @@
+// This file includes javascript functions which add, delete, etc. words in the trie on the server
+
 const fetch = require('node-fetch')
-const server_URL = 'http://localhost:3000'
+const server_URL = 'https://slingshot-server1-tz6carz7la-ue.a.run.app'
 
 function display(){
     fetch(server_URL + '/display')

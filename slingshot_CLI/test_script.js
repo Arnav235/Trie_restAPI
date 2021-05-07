@@ -1,3 +1,6 @@
+// This file includes a couple of the scripts I used to test the server.
+// This file uses functions from the file testing_functions.js
+
 const functions = require('./testing_functions.js')
 
 words = ["hello", "hi", "how", "wow", "computer"]
