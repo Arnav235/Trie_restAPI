@@ -1,5 +1,7 @@
 # The Server
 
+**Note:** The server has currently been taken offline as it is not in use.
+
 This server is hosted on Google Cloud using its Cloud Run service.  
 The server has a trie data structure which holds words. The trie supports 5 operations: 
 - add 
